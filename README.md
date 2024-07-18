@@ -7,8 +7,9 @@ This guide provides instructions for creating and managing a SageMaker Hyperpod 
 
 1. [Cluster Creation](#cluster-creation)
 2. [Cluster Access](#cluster-access)
-3. [Running AnimateAnyone](#running-animateanyone)
-4. [Additional Resources](#additional-resources)
+3. [Train an AnimateAnyone model](#train-an-animateanyone-model)
+4. [Inference](#inference)
+5. [Additional Resources](#additional-resources)
 
 ## Cluster Creation
 
@@ -181,6 +182,9 @@ mlflow ui --backend-store-uri ./mlruns/
 ```
 
 ![ML flow](./img/mlflow.png)
+
+## Inference
+You can ether try a quick inference on a SageMaker notebook instance of `g5.2xlarge` by walking through inference code in [inference](./inference) or deploy an inference endpoint on SageMaker.
 
 
 ## Additional Resources
