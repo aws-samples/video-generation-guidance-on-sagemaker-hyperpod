@@ -184,7 +184,7 @@ mlflow ui --backend-store-uri ./mlruns/
 ![ML flow](./img/mlflow.png)
 
 ## Inference
-You can ether try a quick inference on a SageMaker notebook instance of `g5.2xlarge` by walking through inference code in [inference](./inference) or deploy an inference endpoint on SageMaker.
+You can ether try a quick inference on a SageMaker notebook instance of `g5.2xlarge` by walking through inference code in [inference](./inference) or deploy an inference endpoint on SageMaker. Please refer to [Inference README](./inference/README.md) for more details.
 
 
 ## Additional Resources

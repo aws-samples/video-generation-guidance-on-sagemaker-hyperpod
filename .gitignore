@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+inference/pretrained_weights/
+inference/dwpose-serving/resources/dwpose/__pycache__/
+inference/__pycache__/
+inference/datasets/
+inference/data/
+inference/animateanyone-serving/src/
+inference/Moore-AnimateAnyone/
+inference/output/

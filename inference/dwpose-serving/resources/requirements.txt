@@ -1,0 +1,12 @@
+gevent
+torch==2.0.1
+torchdiffeq==0.2.3
+torchmetrics==1.2.1
+torchsde==0.2.5
+torchvision==0.15.2
+numpy==1.24.4
+controlnet-aux==0.0.7
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+onnxruntime-gpu==1.16.3
+Pillow==9.5.0
