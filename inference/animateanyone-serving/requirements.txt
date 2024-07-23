@@ -25,7 +25,7 @@ torchsde==0.2.5
 torchvision==0.15.2
 tqdm==4.66.1
 transformers==4.30.2
-mlflow==2.9.2
+mlflow==2.14.2
 xformers==0.0.22
 controlnet-aux==0.0.7
 boto3
