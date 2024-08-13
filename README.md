@@ -75,6 +75,9 @@ aws sagemaker delete-cluster --cluster-name ${my-cluster-name}
 - Review and test configurations before production deployment.
 - Monitor cluster usage for cost and performance optimization.
 
+![SageMaker Hyperpod](./img/hyperpod.png)
+
+
 ## Cluster Access
 
 Follow the guidance on [Accessing SageMaker HyperPod cluster nodes](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-hyperpod-run-jobs-access-nodes.html).
