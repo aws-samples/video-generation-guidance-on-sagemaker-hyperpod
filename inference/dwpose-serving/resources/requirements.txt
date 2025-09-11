@@ -1,5 +1,5 @@
 gevent
-torch==2.0.1
+torch==2.8.0
 torchdiffeq==0.2.3
 torchmetrics==1.2.1
 torchsde==0.2.5
