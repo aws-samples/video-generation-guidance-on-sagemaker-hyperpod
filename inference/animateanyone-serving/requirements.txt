@@ -23,7 +23,7 @@ torchdiffeq==0.2.3
 torchmetrics==1.2.1
 torchsde==0.2.5
 torchvision==0.15.2
-tqdm==4.66.1
+tqdm==4.66.3
 transformers==4.53.0
 mlflow==3.1.0
 xformers==0.0.22
