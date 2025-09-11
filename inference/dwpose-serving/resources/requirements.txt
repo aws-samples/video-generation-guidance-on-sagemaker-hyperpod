@@ -9,4 +9,4 @@ controlnet-aux==0.0.7
 opencv-contrib-python==4.8.1.78
 opencv-python==4.8.1.78
 onnxruntime-gpu==1.16.3
-Pillow==9.5.0
+Pillow==10.3.0
